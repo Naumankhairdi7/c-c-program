@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a,i; // a=no of the table 
+    cout<<"The table of:"; // To print the which no of table is
+    cin>>a; // to store the value of the no
+    for(i=1;i<=10;++i)
+    {
+        cout<<i*a<<endl; //To print the table of choosen no
+
+    }
+
+}
