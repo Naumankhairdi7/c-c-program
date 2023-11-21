@@ -7,7 +7,8 @@ int main()
     cin>>a; // to store the value of the no
     for(i=1;i<=10;++i)
     {
-        cout<<i*a<<endl; //To print the table of choosen no
+                cout<<a<<"*"<<i<<"="<<i*a<<endl;
+                                                      //To print the table of choosen no
 
     }
 
