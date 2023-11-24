@@ -7,10 +7,10 @@ int main()
    cin>>a;
    if(a%2==0)
    {
-       cout<<"No is Even"<<a;
+       cout<<"No is Even";
    }
    else{
-    cout<<"NO is odd"<<a;
+    cout<<"NO is odd";
    }
 
 }
